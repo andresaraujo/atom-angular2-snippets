@@ -8,7 +8,7 @@
     "angular2",
     "typescript"
   ],
-  "repository": "https://github.com/",
+  "repository": "https://github.com/andresaraujo/atom-angular2-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

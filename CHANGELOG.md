@@ -1,1 +1,1 @@
-# Angular 2 Snippets
+## 0.1.0 - First Release
