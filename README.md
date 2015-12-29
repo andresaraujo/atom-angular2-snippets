@@ -14,7 +14,7 @@ A collection of common Angular 2 snippets for Dart and Typescript
 
 ### Pipe
 
-* ng2s -> Creates an Angular 2 Pipe class
+* ng2p -> Creates an Angular 2 Pipe class
 
 
 ### HTML
