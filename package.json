@@ -1,0 +1,17 @@
+{
+  "name": "angular2-snippets",
+  "version": "0.1.0",
+  "description": "Angular 2 snippets for Atom.",
+  "keywords": [
+    "dart",
+    "dartlang",
+    "angular2",
+    "typescript"
+  ],
+  "repository": "https://github.com/",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

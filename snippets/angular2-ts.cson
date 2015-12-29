@@ -1,0 +1,32 @@
+'.source.ts':
+  'Component - Angular 2 snippet':
+    'prefix': 'ng2c'
+    'body': """
+      @Component({
+        selector: '${1:selector}',
+        templateUrl: '${2:url}'
+      })
+      export class ${3:Name}Component {
+        constructor() { }
+      }
+      """
+  'Service - Angular 2 snippet':
+    'prefix': 'ng2s'
+    'body': """
+    @Injectable()
+    export class ${1:Name}Service {
+      constructor() { }
+    }
+    """
+  'Pipe - Angular 2 snippet':
+    'prefix': 'ng2p'
+    'body': """
+    @Pipe({
+      name: '${1:name}'
+    })
+    export class ${2:name}Pipe implements PipeTransform {
+      transform(value: ${3:type}, args: any[] = null) : ${3:type} {
+        return $0;
+      }
+    }
+    """

@@ -1,0 +1,32 @@
+'.source.dart':
+  'Component - Angular 2 snippet':
+    'prefix': 'ng2c'
+    'body': """
+      @Component(
+        selector: '${1:selector}',
+        templateUrl: '${2:url}'
+      )
+      class ${3:Name}Component {
+        $0
+      }
+      """
+  'Service - Angular 2 snippet':
+    'prefix': 'ng2s'
+    'body': """
+    @Injectable()
+    class ${1:Name}Service {
+      $0
+    }
+    """
+  'Pipe - Angular 2 snippet':
+    'prefix': 'ng2p'
+    'body': """
+    @Pipe(
+      name: '${1:name}'
+    )
+    class ${2:Name}Pipe implements PipeTransform {
+      ${3:type} transform(${3:type} value, [List<dynamic> args = null]) {
+        return $0;
+      }
+    }
+    """
