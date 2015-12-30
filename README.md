@@ -5,7 +5,11 @@ A collection of common Angular 2 snippets for Dart and Typescript
 
 ### Components
 
-* n2c -> Creates an Angular 2 component
+* n2c -> Creates an Angular 2 component class
+
+### Components
+
+* n2d -> Creates an Angular 2 directive class
 
 ### Service
 

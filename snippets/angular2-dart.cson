@@ -30,3 +30,15 @@
       }
     }
     """
+  'Directive - Angular 2 snippet':
+    'prefix': 'ng2d'
+    'body': """
+    @Directive(selector: '[${1:selector}]')
+    class ${2:Name}Directive implements OnInit {
+      @Input() dynamic ${1:selector};
+
+      ngOnInit() {
+        $0
+      }
+    }
+    """
