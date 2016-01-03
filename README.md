@@ -3,13 +3,18 @@ Angular 2 Snippets for Atom
 
 A collection of common Angular 2 snippets for Dart and Typescript 
 
+### Imports
+* ng2_ng -> Snippet for importing Angular core library
+* ng2_boot -> Snippet for importing Angular bootstrap library
+* ng2_router -> Snippet for importing Angular router library
+
 ### Components
 
 * n2c -> Creates an Angular 2 component class
 
-### Components
+### Directive
 
-* n2d -> Creates an Angular 2 directive class
+* ng2d -> Creates an Angular 2 directive class
 
 ### Service
 

@@ -42,3 +42,18 @@
       }
     }
     """
+  'Import core  - Angular 2 snippet':
+    'prefix': 'ng2_ng'
+    'body': """
+    import 'package:angular2/angular2.dart';
+    """
+  'Import bootstrap  - Angular 2 snippet':
+    'prefix': 'ng2_boot'
+    'body': """
+    import 'package:angular2/bootstrap.dart';
+    """
+  'Import router  - Angular 2 snippet':
+    'prefix': 'ng2_router'
+    'body': """
+    import 'package:angular2/router.dart';
+    """
