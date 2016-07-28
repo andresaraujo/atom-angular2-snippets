@@ -45,15 +45,15 @@
   'Import core  - Angular 2 snippet':
     'prefix': 'ng2_ng'
     'body': """
-    import { ${1:members} } from 'angular2/core';
+    import { ${1:members} } from '@angular2/core';
     """
   'Import bootstrap  - Angular 2 snippet':
     'prefix': 'ng2_boot'
     'body': """
-    import { bootstrap } from 'angular2/platform/browser';
+    import { bootstrap } from '@angular2/platform/browser';
     """
   'Import router  - Angular 2 snippet':
     'prefix': 'ng2_router'
     'body': """
-    import { ${1:members} } from 'angular2/router';
+    import { ${1:members} } from '@angular2/router';
     """
