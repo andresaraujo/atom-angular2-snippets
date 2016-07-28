@@ -4,9 +4,10 @@
     'body': """
       @Component({
         selector: '${1:selector}',
-        templateUrl: '${2:url}'
+        templateUrl: '${2:url}',
+        styleUrls: ['${3:style.css}']
       })
-      export class ${3:Name}Component {
+      export class ${4:Name}Component {
         constructor() { }
       }
       """
