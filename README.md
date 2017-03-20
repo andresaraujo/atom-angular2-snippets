@@ -10,7 +10,7 @@ A collection of common Angular 2 snippets for Dart and Typescript
 
 ### Components
 
-* n2c -> Creates an Angular 2 component class
+* ng2c -> Creates an Angular 2 component class
 
 ### Directive
 
@@ -28,12 +28,12 @@ A collection of common Angular 2 snippets for Dart and Typescript
 
 ### HTML
 
-* ngFor -> Creates a snippet for ngFor directive
+* ng2For -> Creates a snippet for ngFor directive
 
-* ngIf -> Creates a snippet for ngIf directive
+* ng2If -> Creates a snippet for ngIf directive
 
-* ngSwitch -> Creates a snippet for ngSwitch directive
+* ng2Switch -> Creates a snippet for ngSwitch directive
 
-* ngClass -> Creates a snippet for ngClass directive.
+* ng2Class -> Creates a snippet for ngClass directive.
 
-* ngModel -> Creates a snippet for ngModel directive.
+* ng2Model -> Creates a snippet for ngModel directive.
